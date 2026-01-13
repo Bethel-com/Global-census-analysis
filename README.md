@@ -35,3 +35,29 @@ The **Global census analysis report** aims to provide insights on the progressio
 
 3 What continent has the highest growth rate?
 
+4 What was the population state in Argentina between the 2000-2022?
+
+5 What is the most populated country according to the dataset?
+
+6 What is the population state in African countries?
+
+7 What is the population progression in Asia ?
+
+8 Whst country is least populated?
+
+9 What is the population progression in Nigeria?
+
+10 What was the population state of NorthKorea between 2000 and 2022
+
+11 What was the population progression in Russia?
+
+## Visualization in PowerBi
+
+. After the data cleaning and analysis process was completed,the results were exported to XLX file which served as the basis for creating an insightful and visually appealing dashboard
+
+. The purpose of the PowerBi dashboard was to provide better understanding of the insights generated in analysis of this study
+
+## Findings
+
+
+
