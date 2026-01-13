@@ -1,0 +1,37 @@
+--1. What country has the highest growth rate?
+use population
+--select country_territory, growth_rate from population
+--order by growth_rate desc
+--2 What country has the highest population in 2022?
+--select country_territory, _2022_population from population
+--order by _2022_population desc
+--3 what continent has the highest growth rate 
+--select continent, growth_rate from population
+--order by growth_rate desc
+--4 what was the progression in population in Argentina between the year 2000-2022
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--where country_territory = 'Argentina'
+--5 what country is most populated according to this study
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--order by country_territory desc
+--6 what country is least populated according to this study?
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--order by country_territory asc
+--7 what is the population progression in African countries?
+--select country_territory, continent, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--where continent = 'Africa'
+--8 what is the population progression in Asia?
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--where continent = 'Asia'
+--9 What is the population progression in Nigeria from 1970-2022
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--where country_territory = 'Nigeria'
+--10 what was the population progression in North Korea?
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--where country_territory = 'north korea'
+--11 what are the top five countries with highest growth rate in this study?
+--select country_territory, growth_rate from population
+--order by growth_rate desc
+--12 what is the population progression in Russia?
+--select country_territory, _2022_population, _2020_population, _2015_population, _2010_population, _2000_population, _1990_population, _1980_population, _1970_population from population
+--where country_territory = 'Russia'
