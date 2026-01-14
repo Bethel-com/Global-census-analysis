@@ -58,6 +58,22 @@ The **Global census analysis report** aims to provide insights on the progressio
 . The purpose of the PowerBi dashboard was to provide better understanding of the insights generated in analysis of this study
 
 ## Findings
+**Top 5 most populated countries**
+. China
+. India
+. United states
+. Indonesia
+. Pakistan
+
+. **Asia remains the most populated continent**
+
+.**Nigeria is the most populated country in Africa**
+
+. The population of Africa reduced in 2020 most likely due to the Covid19 pandemic
+
+## Conclusion
+
+
 
 
 
