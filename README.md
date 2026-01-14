@@ -72,6 +72,7 @@ The **Global census analysis report** aims to provide insights on the progressio
 . The population of Africa reduced in 2020 most likely due to the Covid19 pandemic
 
 ## Conclusion
+The world population data set provides key insights on the population of countries around the world in all census held so far,From the data set we can decipher the most populated country and continent,growth rate of countries,radius per kilometer.The dataset provides an eatimate on the population of the world,thus rational decisons can be made using this study.
 
 
 
